@@ -1,1 +1,1 @@
-# MagicUI
+# MagicOS_web
